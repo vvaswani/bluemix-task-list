@@ -5,7 +5,6 @@ PHP micro-framework, jQuery Mobile, and the Google Tasks API.
 
 ## Getting Started
 
-* Download the code from [JazzHub](https://hub.jazz.net/project/vvaswani/tasks-mobile). 
 * Follow the directions in [this IBM developerWorks article](http://www.ibm.com/developerworks/library/mo-php-todolist-app/index.html) to download, install and configure the necessary dependencies. 
 * In particular, note that you will need to separately download two libraries: the Google API PHP client and the Slim framework. These will go in the vendor/ directory. Look in the article for the suggested folder structure. 
 
